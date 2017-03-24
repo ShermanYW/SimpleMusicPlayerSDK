@@ -2,6 +2,7 @@
 
 ## A simple music player for iOS app. 
 ## 一个简单的iOS音乐播放器： 
+![](https://github.com/ShermanYW/SimpleMusicPlayerSDK/tree/master/Exsample/Images/IMG_3145.PNG) 
 支持功能：
 - 播放/暂停
 - 上一首/下一首
