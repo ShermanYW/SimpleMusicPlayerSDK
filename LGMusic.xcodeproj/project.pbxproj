@@ -1,0 +1,1060 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CF810A341E79B5EE00331F59 /* dance01.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A061E79B5EE00331F59 /* dance01.png */; };
+		CF810A351E79B5EE00331F59 /* dance02.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A071E79B5EE00331F59 /* dance02.png */; };
+		CF810A361E79B5EE00331F59 /* dance03.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A081E79B5EE00331F59 /* dance03.png */; };
+		CF810A371E79B5EE00331F59 /* dance04.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A091E79B5EE00331F59 /* dance04.png */; };
+		CF810A381E79B5EE00331F59 /* dance05.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A0A1E79B5EE00331F59 /* dance05.png */; };
+		CF810A391E79B5EE00331F59 /* dance06.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A0B1E79B5EE00331F59 /* dance06.png */; };
+		CF810A3A1E79B5EE00331F59 /* dance07.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A0C1E79B5EE00331F59 /* dance07.png */; };
+		CF810A3B1E79B5EE00331F59 /* dance08.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A0D1E79B5EE00331F59 /* dance08.png */; };
+		CF810A3C1E79B5EE00331F59 /* dance09.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A0E1E79B5EE00331F59 /* dance09.png */; };
+		CF810A3D1E79B5EE00331F59 /* dance10.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A0F1E79B5EE00331F59 /* dance10.png */; };
+		CF810A3E1E79B5EE00331F59 /* dance11.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A101E79B5EE00331F59 /* dance11.png */; };
+		CF810A3F1E79B5EE00331F59 /* dance12.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A111E79B5EE00331F59 /* dance12.png */; };
+		CF810A401E79B5EE00331F59 /* dance13.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A121E79B5EE00331F59 /* dance13.png */; };
+		CF810A411E79B5EE00331F59 /* dance14.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A131E79B5EE00331F59 /* dance14.png */; };
+		CF810A421E79B5EE00331F59 /* dance15.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A141E79B5EE00331F59 /* dance15.png */; };
+		CF810A431E79B5EE00331F59 /* dance16.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A151E79B5EE00331F59 /* dance16.png */; };
+		CF810A441E79B5EE00331F59 /* dance17.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A161E79B5EE00331F59 /* dance17.png */; };
+		CF810A451E79B5EE00331F59 /* dance18.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A171E79B5EE00331F59 /* dance18.png */; };
+		CF810A461E79B5EE00331F59 /* dance19.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A181E79B5EE00331F59 /* dance19.png */; };
+		CF810A471E79B5EE00331F59 /* dance20.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A191E79B5EE00331F59 /* dance20.png */; };
+		CF810A481E79B5EE00331F59 /* dance21.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A1A1E79B5EE00331F59 /* dance21.png */; };
+		CF810A491E79B5EE00331F59 /* dance22.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A1B1E79B5EE00331F59 /* dance22.png */; };
+		CF810A4A1E79B5EE00331F59 /* dance23.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A1C1E79B5EE00331F59 /* dance23.png */; };
+		CF810A4B1E79B5EE00331F59 /* dance24.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A1D1E79B5EE00331F59 /* dance24.png */; };
+		CF810A4C1E79B5EE00331F59 /* dance25.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A1E1E79B5EE00331F59 /* dance25.png */; };
+		CF810A4D1E79B5EE00331F59 /* dance26.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A1F1E79B5EE00331F59 /* dance26.png */; };
+		CF810A4E1E79B5EE00331F59 /* dance27.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A201E79B5EE00331F59 /* dance27.png */; };
+		CF810A4F1E79B5EE00331F59 /* dance28.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A211E79B5EE00331F59 /* dance28.png */; };
+		CF810A501E79B5EE00331F59 /* dance29.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A221E79B5EE00331F59 /* dance29.png */; };
+		CF810A511E79B5EE00331F59 /* dance30.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A231E79B5EE00331F59 /* dance30.png */; };
+		CF810A521E79B5EE00331F59 /* dance31.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A241E79B5EE00331F59 /* dance31.png */; };
+		CF810A531E79B5EE00331F59 /* dance32.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A251E79B5EE00331F59 /* dance32.png */; };
+		CF810A541E79B5EE00331F59 /* dance33.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A261E79B5EE00331F59 /* dance33.png */; };
+		CF810A551E79B5EE00331F59 /* dance34.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A271E79B5EE00331F59 /* dance34.png */; };
+		CF810A561E79B5EE00331F59 /* dance35.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A281E79B5EE00331F59 /* dance35.png */; };
+		CF810A571E79B5EE00331F59 /* circlePan.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A2A1E79B5EE00331F59 /* circlePan.png */; };
+		CF810A581E79B5EE00331F59 /* forward_highLighted.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A2B1E79B5EE00331F59 /* forward_highLighted.png */; };
+		CF810A591E79B5EE00331F59 /* forward_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A2C1E79B5EE00331F59 /* forward_normal.png */; };
+		CF810A5A1E79B5EE00331F59 /* next_highLighted.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A2D1E79B5EE00331F59 /* next_highLighted.png */; };
+		CF810A5B1E79B5EE00331F59 /* next_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A2E1E79B5EE00331F59 /* next_normal.png */; };
+		CF810A5C1E79B5EE00331F59 /* noticeFlag.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A2F1E79B5EE00331F59 /* noticeFlag.png */; };
+		CF810A5D1E79B5EE00331F59 /* pause_highLighted.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A301E79B5EE00331F59 /* pause_highLighted.png */; };
+		CF810A5E1E79B5EE00331F59 /* pause_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A311E79B5EE00331F59 /* pause_normal.png */; };
+		CF810A5F1E79B5EE00331F59 /* play_highLighted.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A321E79B5EE00331F59 /* play_highLighted.png */; };
+		CF810A601E79B5EE00331F59 /* play_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810A331E79B5EE00331F59 /* play_normal.png */; };
+		CF810A6B1E7ABECB00331F59 /* LGMusicViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810A6A1E7ABECB00331F59 /* LGMusicViewController.m */; };
+		CF810A6E1E7ABEFB00331F59 /* LGSongListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810A6D1E7ABEFB00331F59 /* LGSongListViewController.m */; };
+		CF810A731E7AD8AF00331F59 /* HMMusicAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810A701E7AD8AF00331F59 /* HMMusicAnimationView.m */; };
+		CF810A741E7AD8AF00331F59 /* HMMusicControlView.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810A721E7AD8AF00331F59 /* HMMusicControlView.m */; };
+		CF810A771E7ADBDB00331F59 /* LGSongListTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810A761E7ADBDB00331F59 /* LGSongListTableViewCell.m */; };
+		CF810A7A1E7AE7F200331F59 /* LGMusic.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810A791E7AE7F200331F59 /* LGMusic.m */; };
+		CF810A7D1E7AE80600331F59 /* LGMusicFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810A7C1E7AE80600331F59 /* LGMusicFrame.m */; };
+		CF810AF41E7C342E00331F59 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810ADB1E7C342E00331F59 /* MASCompositeConstraint.m */; };
+		CF810AF51E7C342E00331F59 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810ADE1E7C342E00331F59 /* MASConstraint.m */; };
+		CF810AF61E7C342E00331F59 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810AE01E7C342E00331F59 /* MASConstraintMaker.m */; };
+		CF810AF71E7C342E00331F59 /* MASLayoutConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810AE21E7C342E00331F59 /* MASLayoutConstraint.m */; };
+		CF810AF81E7C342E00331F59 /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810AE61E7C342E00331F59 /* MASViewAttribute.m */; };
+		CF810AF91E7C342E00331F59 /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810AE81E7C342E00331F59 /* MASViewConstraint.m */; };
+		CF810AFA1E7C342E00331F59 /* NSArray+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810AEA1E7C342E00331F59 /* NSArray+MASAdditions.m */; };
+		CF810AFB1E7C342E00331F59 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810AED1E7C342E00331F59 /* NSLayoutConstraint+MASDebugAdditions.m */; };
+		CF810AFC1E7C342E00331F59 /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810AEF1E7C342E00331F59 /* View+MASAdditions.m */; };
+		CF810AFD1E7C342E00331F59 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810AF21E7C342E00331F59 /* ViewController+MASAdditions.m */; };
+		CF810B001E7CD82000331F59 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF810AFF1E7CD82000331F59 /* AVFoundation.framework */; };
+		CF810B021E7CD82D00331F59 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF810B011E7CD82D00331F59 /* MediaPlayer.framework */; };
+		CF810B101E7CF13D00331F59 /* FMDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B071E7CF13D00331F59 /* FMDatabase.m */; };
+		CF810B111E7CF13D00331F59 /* FMDatabaseAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B091E7CF13D00331F59 /* FMDatabaseAdditions.m */; };
+		CF810B121E7CF13D00331F59 /* FMDatabasePool.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B0B1E7CF13D00331F59 /* FMDatabasePool.m */; };
+		CF810B131E7CF13D00331F59 /* FMDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B0D1E7CF13D00331F59 /* FMDatabaseQueue.m */; };
+		CF810B141E7CF13D00331F59 /* FMResultSet.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B0F1E7CF13D00331F59 /* FMResultSet.m */; };
+		CF810B161E7CF23700331F59 /* libsqlite3.0.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = CF810B151E7CF23700331F59 /* libsqlite3.0.tbd */; };
+		CF810B211E7CF33500331F59 /* FMDBHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B201E7CF33500331F59 /* FMDBHelper.m */; };
+		CF810B241E7D08C300331F59 /* LGMusicManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B231E7D08C300331F59 /* LGMusicManager.m */; };
+		CF810B281E7D76D600331F59 /* LGMusicPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B271E7D76D600331F59 /* LGMusicPlayer.m */; };
+		CF810B301E7DB52500331F59 /* music_next.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810B291E7DB52500331F59 /* music_next.png */; };
+		CF810B311E7DB52500331F59 /* music_play.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810B2A1E7DB52500331F59 /* music_play.png */; };
+		CF810B321E7DB52500331F59 /* music_pause.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810B2B1E7DB52500331F59 /* music_pause.png */; };
+		CF810B331E7DB52500331F59 /* music_back.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810B2C1E7DB52500331F59 /* music_back.png */; };
+		CF810B341E7DB52500331F59 /* music_mode_rand.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810B2D1E7DB52500331F59 /* music_mode_rand.png */; };
+		CF810B351E7DB52500331F59 /* music_mode_cycle.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810B2E1E7DB52500331F59 /* music_mode_cycle.png */; };
+		CF810B361E7DB52500331F59 /* music_mode_single.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810B2F1E7DB52500331F59 /* music_mode_single.png */; };
+		CF810B381E7DB58A00331F59 /* music_list.png in Resources */ = {isa = PBXBuildFile; fileRef = CF810B371E7DB58A00331F59 /* music_list.png */; };
+		CF810B3C1E7E4B6A00331F59 /* LPPopup.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B3B1E7E4B6A00331F59 /* LPPopup.m */; };
+		CF810B3F1E7E6AC100331F59 /* LGMusicSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B3E1E7E6AC100331F59 /* LGMusicSlider.m */; };
+		CF810B431E7EC2C600331F59 /* UIImage+Color.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B421E7EC2C500331F59 /* UIImage+Color.m */; };
+		CF810B471E7EC78500331F59 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = CF810B461E7EC78500331F59 /* MBProgressHUD.m */; };
+		CFBE20A71E798BC800FCC7E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFBE20A61E798BC800FCC7E0 /* Assets.xcassets */; };
+		CFBE20B51E798BC800FCC7E0 /* LGMusicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CFBE20B41E798BC800FCC7E0 /* LGMusicTests.m */; };
+		CFBE20CB1E798C7400FCC7E0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CFBE20C61E798C7400FCC7E0 /* AppDelegate.m */; };
+		CFBE20CD1E798CB900FCC7E0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CFBE20CC1E798CB900FCC7E0 /* main.m */; };
+		CFBE20D41E7995A400FCC7E0 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CFBE20D31E7995A400FCC7E0 /* HomeViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CFBE20B11E798BC800FCC7E0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CFBE208F1E798BC800FCC7E0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CFBE20961E798BC800FCC7E0;
+			remoteInfo = LGMusic;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CF810A061E79B5EE00331F59 /* dance01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance01.png; sourceTree = "<group>"; };
+		CF810A071E79B5EE00331F59 /* dance02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance02.png; sourceTree = "<group>"; };
+		CF810A081E79B5EE00331F59 /* dance03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance03.png; sourceTree = "<group>"; };
+		CF810A091E79B5EE00331F59 /* dance04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance04.png; sourceTree = "<group>"; };
+		CF810A0A1E79B5EE00331F59 /* dance05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance05.png; sourceTree = "<group>"; };
+		CF810A0B1E79B5EE00331F59 /* dance06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance06.png; sourceTree = "<group>"; };
+		CF810A0C1E79B5EE00331F59 /* dance07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance07.png; sourceTree = "<group>"; };
+		CF810A0D1E79B5EE00331F59 /* dance08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance08.png; sourceTree = "<group>"; };
+		CF810A0E1E79B5EE00331F59 /* dance09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance09.png; sourceTree = "<group>"; };
+		CF810A0F1E79B5EE00331F59 /* dance10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance10.png; sourceTree = "<group>"; };
+		CF810A101E79B5EE00331F59 /* dance11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance11.png; sourceTree = "<group>"; };
+		CF810A111E79B5EE00331F59 /* dance12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance12.png; sourceTree = "<group>"; };
+		CF810A121E79B5EE00331F59 /* dance13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance13.png; sourceTree = "<group>"; };
+		CF810A131E79B5EE00331F59 /* dance14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance14.png; sourceTree = "<group>"; };
+		CF810A141E79B5EE00331F59 /* dance15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance15.png; sourceTree = "<group>"; };
+		CF810A151E79B5EE00331F59 /* dance16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance16.png; sourceTree = "<group>"; };
+		CF810A161E79B5EE00331F59 /* dance17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance17.png; sourceTree = "<group>"; };
+		CF810A171E79B5EE00331F59 /* dance18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance18.png; sourceTree = "<group>"; };
+		CF810A181E79B5EE00331F59 /* dance19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance19.png; sourceTree = "<group>"; };
+		CF810A191E79B5EE00331F59 /* dance20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance20.png; sourceTree = "<group>"; };
+		CF810A1A1E79B5EE00331F59 /* dance21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance21.png; sourceTree = "<group>"; };
+		CF810A1B1E79B5EE00331F59 /* dance22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance22.png; sourceTree = "<group>"; };
+		CF810A1C1E79B5EE00331F59 /* dance23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance23.png; sourceTree = "<group>"; };
+		CF810A1D1E79B5EE00331F59 /* dance24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance24.png; sourceTree = "<group>"; };
+		CF810A1E1E79B5EE00331F59 /* dance25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance25.png; sourceTree = "<group>"; };
+		CF810A1F1E79B5EE00331F59 /* dance26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance26.png; sourceTree = "<group>"; };
+		CF810A201E79B5EE00331F59 /* dance27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance27.png; sourceTree = "<group>"; };
+		CF810A211E79B5EE00331F59 /* dance28.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance28.png; sourceTree = "<group>"; };
+		CF810A221E79B5EE00331F59 /* dance29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance29.png; sourceTree = "<group>"; };
+		CF810A231E79B5EE00331F59 /* dance30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance30.png; sourceTree = "<group>"; };
+		CF810A241E79B5EE00331F59 /* dance31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance31.png; sourceTree = "<group>"; };
+		CF810A251E79B5EE00331F59 /* dance32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance32.png; sourceTree = "<group>"; };
+		CF810A261E79B5EE00331F59 /* dance33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance33.png; sourceTree = "<group>"; };
+		CF810A271E79B5EE00331F59 /* dance34.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance34.png; sourceTree = "<group>"; };
+		CF810A281E79B5EE00331F59 /* dance35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dance35.png; sourceTree = "<group>"; };
+		CF810A2A1E79B5EE00331F59 /* circlePan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circlePan.png; sourceTree = "<group>"; };
+		CF810A2B1E79B5EE00331F59 /* forward_highLighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = forward_highLighted.png; sourceTree = "<group>"; };
+		CF810A2C1E79B5EE00331F59 /* forward_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = forward_normal.png; sourceTree = "<group>"; };
+		CF810A2D1E79B5EE00331F59 /* next_highLighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next_highLighted.png; sourceTree = "<group>"; };
+		CF810A2E1E79B5EE00331F59 /* next_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next_normal.png; sourceTree = "<group>"; };
+		CF810A2F1E79B5EE00331F59 /* noticeFlag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noticeFlag.png; sourceTree = "<group>"; };
+		CF810A301E79B5EE00331F59 /* pause_highLighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause_highLighted.png; sourceTree = "<group>"; };
+		CF810A311E79B5EE00331F59 /* pause_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause_normal.png; sourceTree = "<group>"; };
+		CF810A321E79B5EE00331F59 /* play_highLighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play_highLighted.png; sourceTree = "<group>"; };
+		CF810A331E79B5EE00331F59 /* play_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play_normal.png; sourceTree = "<group>"; };
+		CF810A691E7ABECB00331F59 /* LGMusicViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGMusicViewController.h; sourceTree = "<group>"; };
+		CF810A6A1E7ABECB00331F59 /* LGMusicViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGMusicViewController.m; sourceTree = "<group>"; };
+		CF810A6C1E7ABEFB00331F59 /* LGSongListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGSongListViewController.h; sourceTree = "<group>"; };
+		CF810A6D1E7ABEFB00331F59 /* LGSongListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGSongListViewController.m; sourceTree = "<group>"; };
+		CF810A6F1E7AD8AF00331F59 /* HMMusicAnimationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMMusicAnimationView.h; sourceTree = "<group>"; };
+		CF810A701E7AD8AF00331F59 /* HMMusicAnimationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMMusicAnimationView.m; sourceTree = "<group>"; };
+		CF810A711E7AD8AF00331F59 /* HMMusicControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMMusicControlView.h; sourceTree = "<group>"; };
+		CF810A721E7AD8AF00331F59 /* HMMusicControlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMMusicControlView.m; sourceTree = "<group>"; };
+		CF810A751E7ADBDB00331F59 /* LGSongListTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGSongListTableViewCell.h; sourceTree = "<group>"; };
+		CF810A761E7ADBDB00331F59 /* LGSongListTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGSongListTableViewCell.m; sourceTree = "<group>"; };
+		CF810A781E7AE7F200331F59 /* LGMusic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGMusic.h; sourceTree = "<group>"; };
+		CF810A791E7AE7F200331F59 /* LGMusic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGMusic.m; sourceTree = "<group>"; };
+		CF810A7B1E7AE80600331F59 /* LGMusicFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGMusicFrame.h; sourceTree = "<group>"; };
+		CF810A7C1E7AE80600331F59 /* LGMusicFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGMusicFrame.m; sourceTree = "<group>"; };
+		CF810ADA1E7C342E00331F59 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
+		CF810ADB1E7C342E00331F59 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASCompositeConstraint.m; sourceTree = "<group>"; };
+		CF810ADC1E7C342E00331F59 /* MASConstraint+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MASConstraint+Private.h"; sourceTree = "<group>"; };
+		CF810ADD1E7C342E00331F59 /* MASConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASConstraint.h; sourceTree = "<group>"; };
+		CF810ADE1E7C342E00331F59 /* MASConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASConstraint.m; sourceTree = "<group>"; };
+		CF810ADF1E7C342E00331F59 /* MASConstraintMaker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASConstraintMaker.h; sourceTree = "<group>"; };
+		CF810AE01E7C342E00331F59 /* MASConstraintMaker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASConstraintMaker.m; sourceTree = "<group>"; };
+		CF810AE11E7C342E00331F59 /* MASLayoutConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASLayoutConstraint.h; sourceTree = "<group>"; };
+		CF810AE21E7C342E00331F59 /* MASLayoutConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASLayoutConstraint.m; sourceTree = "<group>"; };
+		CF810AE31E7C342E00331F59 /* Masonry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Masonry.h; sourceTree = "<group>"; };
+		CF810AE41E7C342E00331F59 /* MASUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASUtilities.h; sourceTree = "<group>"; };
+		CF810AE51E7C342E00331F59 /* MASViewAttribute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASViewAttribute.h; sourceTree = "<group>"; };
+		CF810AE61E7C342E00331F59 /* MASViewAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewAttribute.m; sourceTree = "<group>"; };
+		CF810AE71E7C342E00331F59 /* MASViewConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASViewConstraint.h; sourceTree = "<group>"; };
+		CF810AE81E7C342E00331F59 /* MASViewConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewConstraint.m; sourceTree = "<group>"; };
+		CF810AE91E7C342E00331F59 /* NSArray+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+MASAdditions.h"; sourceTree = "<group>"; };
+		CF810AEA1E7C342E00331F59 /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+MASAdditions.m"; sourceTree = "<group>"; };
+		CF810AEB1E7C342E00331F59 /* NSArray+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+MASShorthandAdditions.h"; sourceTree = "<group>"; };
+		CF810AEC1E7C342E00331F59 /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
+		CF810AED1E7C342E00331F59 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
+		CF810AEE1E7C342E00331F59 /* View+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASAdditions.h"; sourceTree = "<group>"; };
+		CF810AEF1E7C342E00331F59 /* View+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "View+MASAdditions.m"; sourceTree = "<group>"; };
+		CF810AF01E7C342E00331F59 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
+		CF810AF11E7C342E00331F59 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ViewController+MASAdditions.h"; sourceTree = "<group>"; };
+		CF810AF21E7C342E00331F59 /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ViewController+MASAdditions.m"; sourceTree = "<group>"; };
+		CF810AFF1E7CD82000331F59 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		CF810B011E7CD82D00331F59 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		CF810B061E7CF13D00331F59 /* FMDatabase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabase.h; sourceTree = "<group>"; };
+		CF810B071E7CF13D00331F59 /* FMDatabase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabase.m; sourceTree = "<group>"; };
+		CF810B081E7CF13D00331F59 /* FMDatabaseAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabaseAdditions.h; sourceTree = "<group>"; };
+		CF810B091E7CF13D00331F59 /* FMDatabaseAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabaseAdditions.m; sourceTree = "<group>"; };
+		CF810B0A1E7CF13D00331F59 /* FMDatabasePool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabasePool.h; sourceTree = "<group>"; };
+		CF810B0B1E7CF13D00331F59 /* FMDatabasePool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabasePool.m; sourceTree = "<group>"; };
+		CF810B0C1E7CF13D00331F59 /* FMDatabaseQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabaseQueue.h; sourceTree = "<group>"; };
+		CF810B0D1E7CF13D00331F59 /* FMDatabaseQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabaseQueue.m; sourceTree = "<group>"; };
+		CF810B0E1E7CF13D00331F59 /* FMResultSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMResultSet.h; sourceTree = "<group>"; };
+		CF810B0F1E7CF13D00331F59 /* FMResultSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMResultSet.m; sourceTree = "<group>"; };
+		CF810B151E7CF23700331F59 /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
+		CF810B1F1E7CF33500331F59 /* FMDBHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDBHelper.h; sourceTree = "<group>"; };
+		CF810B201E7CF33500331F59 /* FMDBHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDBHelper.m; sourceTree = "<group>"; };
+		CF810B221E7D08C300331F59 /* LGMusicManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGMusicManager.h; sourceTree = "<group>"; };
+		CF810B231E7D08C300331F59 /* LGMusicManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGMusicManager.m; sourceTree = "<group>"; };
+		CF810B261E7D76D600331F59 /* LGMusicPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGMusicPlayer.h; sourceTree = "<group>"; };
+		CF810B271E7D76D600331F59 /* LGMusicPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGMusicPlayer.m; sourceTree = "<group>"; };
+		CF810B291E7DB52500331F59 /* music_next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music_next.png; sourceTree = "<group>"; };
+		CF810B2A1E7DB52500331F59 /* music_play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music_play.png; sourceTree = "<group>"; };
+		CF810B2B1E7DB52500331F59 /* music_pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music_pause.png; sourceTree = "<group>"; };
+		CF810B2C1E7DB52500331F59 /* music_back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music_back.png; sourceTree = "<group>"; };
+		CF810B2D1E7DB52500331F59 /* music_mode_rand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music_mode_rand.png; sourceTree = "<group>"; };
+		CF810B2E1E7DB52500331F59 /* music_mode_cycle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music_mode_cycle.png; sourceTree = "<group>"; };
+		CF810B2F1E7DB52500331F59 /* music_mode_single.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music_mode_single.png; sourceTree = "<group>"; };
+		CF810B371E7DB58A00331F59 /* music_list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music_list.png; sourceTree = "<group>"; };
+		CF810B3A1E7E4B6A00331F59 /* LPPopup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPPopup.h; sourceTree = "<group>"; };
+		CF810B3B1E7E4B6A00331F59 /* LPPopup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LPPopup.m; sourceTree = "<group>"; };
+		CF810B3D1E7E6AC100331F59 /* LGMusicSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGMusicSlider.h; sourceTree = "<group>"; };
+		CF810B3E1E7E6AC100331F59 /* LGMusicSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGMusicSlider.m; sourceTree = "<group>"; };
+		CF810B411E7EC2C500331F59 /* UIImage+Color.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Color.h"; sourceTree = "<group>"; };
+		CF810B421E7EC2C500331F59 /* UIImage+Color.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Color.m"; sourceTree = "<group>"; };
+		CF810B451E7EC78500331F59 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		CF810B461E7EC78500331F59 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		CFBE20971E798BC800FCC7E0 /* LGMusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LGMusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CFBE20A61E798BC800FCC7E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CFBE20AB1E798BC800FCC7E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFBE20B01E798BC800FCC7E0 /* LGMusicTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LGMusicTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CFBE20B41E798BC800FCC7E0 /* LGMusicTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGMusicTests.m; sourceTree = "<group>"; };
+		CFBE20B61E798BC800FCC7E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFBE20C51E798C7400FCC7E0 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CFBE20C61E798C7400FCC7E0 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CFBE20CC1E798CB900FCC7E0 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CFBE20D21E7995A400FCC7E0 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		CFBE20D31E7995A400FCC7E0 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		CFBE20D81E799B4D00FCC7E0 /* Common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Common.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CFBE20941E798BC800FCC7E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF810B161E7CF23700331F59 /* libsqlite3.0.tbd in Frameworks */,
+				CF810B021E7CD82D00331F59 /* MediaPlayer.framework in Frameworks */,
+				CF810B001E7CD82000331F59 /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CFBE20AD1E798BC800FCC7E0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CF810A051E79B5EE00331F59 /* DanceGirl */ = {
+			isa = PBXGroup;
+			children = (
+				CF810A061E79B5EE00331F59 /* dance01.png */,
+				CF810A071E79B5EE00331F59 /* dance02.png */,
+				CF810A081E79B5EE00331F59 /* dance03.png */,
+				CF810A091E79B5EE00331F59 /* dance04.png */,
+				CF810A0A1E79B5EE00331F59 /* dance05.png */,
+				CF810A0B1E79B5EE00331F59 /* dance06.png */,
+				CF810A0C1E79B5EE00331F59 /* dance07.png */,
+				CF810A0D1E79B5EE00331F59 /* dance08.png */,
+				CF810A0E1E79B5EE00331F59 /* dance09.png */,
+				CF810A0F1E79B5EE00331F59 /* dance10.png */,
+				CF810A101E79B5EE00331F59 /* dance11.png */,
+				CF810A111E79B5EE00331F59 /* dance12.png */,
+				CF810A121E79B5EE00331F59 /* dance13.png */,
+				CF810A131E79B5EE00331F59 /* dance14.png */,
+				CF810A141E79B5EE00331F59 /* dance15.png */,
+				CF810A151E79B5EE00331F59 /* dance16.png */,
+				CF810A161E79B5EE00331F59 /* dance17.png */,
+				CF810A171E79B5EE00331F59 /* dance18.png */,
+				CF810A181E79B5EE00331F59 /* dance19.png */,
+				CF810A191E79B5EE00331F59 /* dance20.png */,
+				CF810A1A1E79B5EE00331F59 /* dance21.png */,
+				CF810A1B1E79B5EE00331F59 /* dance22.png */,
+				CF810A1C1E79B5EE00331F59 /* dance23.png */,
+				CF810A1D1E79B5EE00331F59 /* dance24.png */,
+				CF810A1E1E79B5EE00331F59 /* dance25.png */,
+				CF810A1F1E79B5EE00331F59 /* dance26.png */,
+				CF810A201E79B5EE00331F59 /* dance27.png */,
+				CF810A211E79B5EE00331F59 /* dance28.png */,
+				CF810A221E79B5EE00331F59 /* dance29.png */,
+				CF810A231E79B5EE00331F59 /* dance30.png */,
+				CF810A241E79B5EE00331F59 /* dance31.png */,
+				CF810A251E79B5EE00331F59 /* dance32.png */,
+				CF810A261E79B5EE00331F59 /* dance33.png */,
+				CF810A271E79B5EE00331F59 /* dance34.png */,
+				CF810A281E79B5EE00331F59 /* dance35.png */,
+			);
+			path = DanceGirl;
+			sourceTree = "<group>";
+		};
+		CF810A291E79B5EE00331F59 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				CF810B291E7DB52500331F59 /* music_next.png */,
+				CF810B371E7DB58A00331F59 /* music_list.png */,
+				CF810B2A1E7DB52500331F59 /* music_play.png */,
+				CF810B2B1E7DB52500331F59 /* music_pause.png */,
+				CF810B2C1E7DB52500331F59 /* music_back.png */,
+				CF810B2D1E7DB52500331F59 /* music_mode_rand.png */,
+				CF810B2E1E7DB52500331F59 /* music_mode_cycle.png */,
+				CF810B2F1E7DB52500331F59 /* music_mode_single.png */,
+				CF810A2A1E79B5EE00331F59 /* circlePan.png */,
+				CF810A2B1E79B5EE00331F59 /* forward_highLighted.png */,
+				CF810A2C1E79B5EE00331F59 /* forward_normal.png */,
+				CF810A2D1E79B5EE00331F59 /* next_highLighted.png */,
+				CF810A2E1E79B5EE00331F59 /* next_normal.png */,
+				CF810A2F1E79B5EE00331F59 /* noticeFlag.png */,
+				CF810A301E79B5EE00331F59 /* pause_highLighted.png */,
+				CF810A311E79B5EE00331F59 /* pause_normal.png */,
+				CF810A321E79B5EE00331F59 /* play_highLighted.png */,
+				CF810A331E79B5EE00331F59 /* play_normal.png */,
+			);
+			path = Music;
+			sourceTree = "<group>";
+		};
+		CF810A611E7ABE9B00331F59 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				CF810A621E7ABE9B00331F59 /* Controllers */,
+				CF810A631E7ABE9B00331F59 /* Models */,
+				CF810A641E7ABE9B00331F59 /* Views */,
+			);
+			path = Music;
+			sourceTree = "<group>";
+		};
+		CF810A621E7ABE9B00331F59 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				CF810A691E7ABECB00331F59 /* LGMusicViewController.h */,
+				CF810A6A1E7ABECB00331F59 /* LGMusicViewController.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		CF810A631E7ABE9B00331F59 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CF810A641E7ABE9B00331F59 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				CF810A6F1E7AD8AF00331F59 /* HMMusicAnimationView.h */,
+				CF810A701E7AD8AF00331F59 /* HMMusicAnimationView.m */,
+				CF810A711E7AD8AF00331F59 /* HMMusicControlView.h */,
+				CF810A721E7AD8AF00331F59 /* HMMusicControlView.m */,
+				CF810B3D1E7E6AC100331F59 /* LGMusicSlider.h */,
+				CF810B3E1E7E6AC100331F59 /* LGMusicSlider.m */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CF810A651E7ABE9B00331F59 /* SongList */ = {
+			isa = PBXGroup;
+			children = (
+				CF810A661E7ABE9B00331F59 /* Controllers */,
+				CF810A671E7ABE9B00331F59 /* Models */,
+				CF810A681E7ABE9B00331F59 /* Views */,
+			);
+			path = SongList;
+			sourceTree = "<group>";
+		};
+		CF810A661E7ABE9B00331F59 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				CF810A6C1E7ABEFB00331F59 /* LGSongListViewController.h */,
+				CF810A6D1E7ABEFB00331F59 /* LGSongListViewController.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		CF810A671E7ABE9B00331F59 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CF810A781E7AE7F200331F59 /* LGMusic.h */,
+				CF810A791E7AE7F200331F59 /* LGMusic.m */,
+				CF810A7B1E7AE80600331F59 /* LGMusicFrame.h */,
+				CF810A7C1E7AE80600331F59 /* LGMusicFrame.m */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CF810A681E7ABE9B00331F59 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				CF810A751E7ADBDB00331F59 /* LGSongListTableViewCell.h */,
+				CF810A761E7ADBDB00331F59 /* LGSongListTableViewCell.m */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CF810AD81E7C342E00331F59 /* Masonry */ = {
+			isa = PBXGroup;
+			children = (
+				CF810ADA1E7C342E00331F59 /* MASCompositeConstraint.h */,
+				CF810ADB1E7C342E00331F59 /* MASCompositeConstraint.m */,
+				CF810ADC1E7C342E00331F59 /* MASConstraint+Private.h */,
+				CF810ADD1E7C342E00331F59 /* MASConstraint.h */,
+				CF810ADE1E7C342E00331F59 /* MASConstraint.m */,
+				CF810ADF1E7C342E00331F59 /* MASConstraintMaker.h */,
+				CF810AE01E7C342E00331F59 /* MASConstraintMaker.m */,
+				CF810AE11E7C342E00331F59 /* MASLayoutConstraint.h */,
+				CF810AE21E7C342E00331F59 /* MASLayoutConstraint.m */,
+				CF810AE31E7C342E00331F59 /* Masonry.h */,
+				CF810AE41E7C342E00331F59 /* MASUtilities.h */,
+				CF810AE51E7C342E00331F59 /* MASViewAttribute.h */,
+				CF810AE61E7C342E00331F59 /* MASViewAttribute.m */,
+				CF810AE71E7C342E00331F59 /* MASViewConstraint.h */,
+				CF810AE81E7C342E00331F59 /* MASViewConstraint.m */,
+				CF810AE91E7C342E00331F59 /* NSArray+MASAdditions.h */,
+				CF810AEA1E7C342E00331F59 /* NSArray+MASAdditions.m */,
+				CF810AEB1E7C342E00331F59 /* NSArray+MASShorthandAdditions.h */,
+				CF810AEC1E7C342E00331F59 /* NSLayoutConstraint+MASDebugAdditions.h */,
+				CF810AED1E7C342E00331F59 /* NSLayoutConstraint+MASDebugAdditions.m */,
+				CF810AEE1E7C342E00331F59 /* View+MASAdditions.h */,
+				CF810AEF1E7C342E00331F59 /* View+MASAdditions.m */,
+				CF810AF01E7C342E00331F59 /* View+MASShorthandAdditions.h */,
+				CF810AF11E7C342E00331F59 /* ViewController+MASAdditions.h */,
+				CF810AF21E7C342E00331F59 /* ViewController+MASAdditions.m */,
+			);
+			path = Masonry;
+			sourceTree = "<group>";
+		};
+		CF810AFE1E7CD81F00331F59 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CF810B151E7CF23700331F59 /* libsqlite3.0.tbd */,
+				CF810B011E7CD82D00331F59 /* MediaPlayer.framework */,
+				CF810AFF1E7CD82000331F59 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CF810B051E7CF13D00331F59 /* FMDB */ = {
+			isa = PBXGroup;
+			children = (
+				CF810B061E7CF13D00331F59 /* FMDatabase.h */,
+				CF810B071E7CF13D00331F59 /* FMDatabase.m */,
+				CF810B081E7CF13D00331F59 /* FMDatabaseAdditions.h */,
+				CF810B091E7CF13D00331F59 /* FMDatabaseAdditions.m */,
+				CF810B0A1E7CF13D00331F59 /* FMDatabasePool.h */,
+				CF810B0B1E7CF13D00331F59 /* FMDatabasePool.m */,
+				CF810B0C1E7CF13D00331F59 /* FMDatabaseQueue.h */,
+				CF810B0D1E7CF13D00331F59 /* FMDatabaseQueue.m */,
+				CF810B0E1E7CF13D00331F59 /* FMResultSet.h */,
+				CF810B0F1E7CF13D00331F59 /* FMResultSet.m */,
+			);
+			path = FMDB;
+			sourceTree = "<group>";
+		};
+		CF810B1E1E7CF33500331F59 /* FMDBHelper */ = {
+			isa = PBXGroup;
+			children = (
+				CF810B1F1E7CF33500331F59 /* FMDBHelper.h */,
+				CF810B201E7CF33500331F59 /* FMDBHelper.m */,
+				CF810B221E7D08C300331F59 /* LGMusicManager.h */,
+				CF810B231E7D08C300331F59 /* LGMusicManager.m */,
+			);
+			path = FMDBHelper;
+			sourceTree = "<group>";
+		};
+		CF810B251E7D76BC00331F59 /* LGMusicPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				CF810B261E7D76D600331F59 /* LGMusicPlayer.h */,
+				CF810B271E7D76D600331F59 /* LGMusicPlayer.m */,
+			);
+			path = LGMusicPlayer;
+			sourceTree = "<group>";
+		};
+		CF810B391E7E4B6A00331F59 /* LPPopup */ = {
+			isa = PBXGroup;
+			children = (
+				CF810B3A1E7E4B6A00331F59 /* LPPopup.h */,
+				CF810B3B1E7E4B6A00331F59 /* LPPopup.m */,
+			);
+			path = LPPopup;
+			sourceTree = "<group>";
+		};
+		CF810B401E7EC29300331F59 /* UIImage+Color */ = {
+			isa = PBXGroup;
+			children = (
+				CF810B411E7EC2C500331F59 /* UIImage+Color.h */,
+				CF810B421E7EC2C500331F59 /* UIImage+Color.m */,
+			);
+			path = "UIImage+Color";
+			sourceTree = "<group>";
+		};
+		CF810B441E7EC78500331F59 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				CF810B451E7EC78500331F59 /* MBProgressHUD.h */,
+				CF810B461E7EC78500331F59 /* MBProgressHUD.m */,
+			);
+			path = MBProgressHUD;
+			sourceTree = "<group>";
+		};
+		CFBE208E1E798BC800FCC7E0 = {
+			isa = PBXGroup;
+			children = (
+				CFBE20991E798BC800FCC7E0 /* LGMusic */,
+				CFBE20B31E798BC800FCC7E0 /* LGMusicTests */,
+				CFBE20981E798BC800FCC7E0 /* Products */,
+				CF810AFE1E7CD81F00331F59 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		CFBE20981E798BC800FCC7E0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CFBE20971E798BC800FCC7E0 /* LGMusic.app */,
+				CFBE20B01E798BC800FCC7E0 /* LGMusicTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CFBE20991E798BC800FCC7E0 /* LGMusic */ = {
+			isa = PBXGroup;
+			children = (
+				CFBE20BF1E798C7400FCC7E0 /* main */,
+				CFBE209A1E798BC800FCC7E0 /* Supporting Files */,
+			);
+			path = LGMusic;
+			sourceTree = "<group>";
+		};
+		CFBE209A1E798BC800FCC7E0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CFBE20A61E798BC800FCC7E0 /* Assets.xcassets */,
+				CFBE20AB1E798BC800FCC7E0 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CFBE20B31E798BC800FCC7E0 /* LGMusicTests */ = {
+			isa = PBXGroup;
+			children = (
+				CFBE20B41E798BC800FCC7E0 /* LGMusicTests.m */,
+				CFBE20B61E798BC800FCC7E0 /* Info.plist */,
+			);
+			path = LGMusicTests;
+			sourceTree = "<group>";
+		};
+		CFBE20BF1E798C7400FCC7E0 /* main */ = {
+			isa = PBXGroup;
+			children = (
+				CFBE20C01E798C7400FCC7E0 /* Home */,
+				CF810A611E7ABE9B00331F59 /* Music */,
+				CF810A651E7ABE9B00331F59 /* SongList */,
+				CFBE20DA1E79A9B000FCC7E0 /* Images */,
+				CFBE20C41E798C7400FCC7E0 /* MainFile */,
+				CFBE20CE1E798CDB00FCC7E0 /* lib */,
+				CFBE20C71E798C7400FCC7E0 /* other */,
+			);
+			path = main;
+			sourceTree = "<group>";
+		};
+		CFBE20C01E798C7400FCC7E0 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				CFBE20C11E798C7400FCC7E0 /* Controllers */,
+				CFBE20C21E798C7400FCC7E0 /* Models */,
+				CFBE20C31E798C7400FCC7E0 /* Views */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		CFBE20C11E798C7400FCC7E0 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				CFBE20D21E7995A400FCC7E0 /* HomeViewController.h */,
+				CFBE20D31E7995A400FCC7E0 /* HomeViewController.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		CFBE20C21E798C7400FCC7E0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CFBE20C31E798C7400FCC7E0 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CFBE20C41E798C7400FCC7E0 /* MainFile */ = {
+			isa = PBXGroup;
+			children = (
+				CFBE20CC1E798CB900FCC7E0 /* main.m */,
+				CFBE20C51E798C7400FCC7E0 /* AppDelegate.h */,
+				CFBE20C61E798C7400FCC7E0 /* AppDelegate.m */,
+			);
+			path = MainFile;
+			sourceTree = "<group>";
+		};
+		CFBE20C71E798C7400FCC7E0 /* other */ = {
+			isa = PBXGroup;
+			children = (
+				CFBE20C81E798C7400FCC7E0 /* Controllers */,
+				CFBE20C91E798C7400FCC7E0 /* Models */,
+				CFBE20CA1E798C7400FCC7E0 /* Views */,
+			);
+			path = other;
+			sourceTree = "<group>";
+		};
+		CFBE20C81E798C7400FCC7E0 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		CFBE20C91E798C7400FCC7E0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CFBE20CA1E798C7400FCC7E0 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CFBE20CE1E798CDB00FCC7E0 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				CF810B441E7EC78500331F59 /* MBProgressHUD */,
+				CF810B401E7EC29300331F59 /* UIImage+Color */,
+				CF810B391E7E4B6A00331F59 /* LPPopup */,
+				CF810B251E7D76BC00331F59 /* LGMusicPlayer */,
+				CF810B1E1E7CF33500331F59 /* FMDBHelper */,
+				CF810B051E7CF13D00331F59 /* FMDB */,
+				CF810AD81E7C342E00331F59 /* Masonry */,
+				CFBE20D81E799B4D00FCC7E0 /* Common.h */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		CFBE20DA1E79A9B000FCC7E0 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				CF810A051E79B5EE00331F59 /* DanceGirl */,
+				CF810A291E79B5EE00331F59 /* Music */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CFBE20961E798BC800FCC7E0 /* LGMusic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CFBE20B91E798BC800FCC7E0 /* Build configuration list for PBXNativeTarget "LGMusic" */;
+			buildPhases = (
+				CFBE20931E798BC800FCC7E0 /* Sources */,
+				CFBE20941E798BC800FCC7E0 /* Frameworks */,
+				CFBE20951E798BC800FCC7E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LGMusic;
+			productName = LGMusic;
+			productReference = CFBE20971E798BC800FCC7E0 /* LGMusic.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CFBE20AF1E798BC800FCC7E0 /* LGMusicTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CFBE20BC1E798BC800FCC7E0 /* Build configuration list for PBXNativeTarget "LGMusicTests" */;
+			buildPhases = (
+				CFBE20AC1E798BC800FCC7E0 /* Sources */,
+				CFBE20AD1E798BC800FCC7E0 /* Frameworks */,
+				CFBE20AE1E798BC800FCC7E0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CFBE20B21E798BC800FCC7E0 /* PBXTargetDependency */,
+			);
+			name = LGMusicTests;
+			productName = LGMusicTests;
+			productReference = CFBE20B01E798BC800FCC7E0 /* LGMusicTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CFBE208F1E798BC800FCC7E0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = sherman;
+				TargetAttributes = {
+					CFBE20961E798BC800FCC7E0 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 4HE47SJGML;
+						ProvisioningStyle = Automatic;
+					};
+					CFBE20AF1E798BC800FCC7E0 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 4HE47SJGML;
+						ProvisioningStyle = Automatic;
+						TestTargetID = CFBE20961E798BC800FCC7E0;
+					};
+				};
+			};
+			buildConfigurationList = CFBE20921E798BC800FCC7E0 /* Build configuration list for PBXProject "LGMusic" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CFBE208E1E798BC800FCC7E0;
+			productRefGroup = CFBE20981E798BC800FCC7E0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CFBE20961E798BC800FCC7E0 /* LGMusic */,
+				CFBE20AF1E798BC800FCC7E0 /* LGMusicTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CFBE20951E798BC800FCC7E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF810A481E79B5EE00331F59 /* dance21.png in Resources */,
+				CF810B331E7DB52500331F59 /* music_back.png in Resources */,
+				CF810A591E79B5EE00331F59 /* forward_normal.png in Resources */,
+				CF810B341E7DB52500331F59 /* music_mode_rand.png in Resources */,
+				CF810B321E7DB52500331F59 /* music_pause.png in Resources */,
+				CF810A571E79B5EE00331F59 /* circlePan.png in Resources */,
+				CF810A3A1E79B5EE00331F59 /* dance07.png in Resources */,
+				CF810A4C1E79B5EE00331F59 /* dance25.png in Resources */,
+				CF810A381E79B5EE00331F59 /* dance05.png in Resources */,
+				CF810A431E79B5EE00331F59 /* dance16.png in Resources */,
+				CF810B361E7DB52500331F59 /* music_mode_single.png in Resources */,
+				CF810A4D1E79B5EE00331F59 /* dance26.png in Resources */,
+				CF810B351E7DB52500331F59 /* music_mode_cycle.png in Resources */,
+				CF810A451E79B5EE00331F59 /* dance18.png in Resources */,
+				CF810A361E79B5EE00331F59 /* dance03.png in Resources */,
+				CF810A5B1E79B5EE00331F59 /* next_normal.png in Resources */,
+				CF810A5C1E79B5EE00331F59 /* noticeFlag.png in Resources */,
+				CF810A501E79B5EE00331F59 /* dance29.png in Resources */,
+				CF810A471E79B5EE00331F59 /* dance20.png in Resources */,
+				CF810A601E79B5EE00331F59 /* play_normal.png in Resources */,
+				CF810A531E79B5EE00331F59 /* dance32.png in Resources */,
+				CF810B301E7DB52500331F59 /* music_next.png in Resources */,
+				CF810A371E79B5EE00331F59 /* dance04.png in Resources */,
+				CF810A4B1E79B5EE00331F59 /* dance24.png in Resources */,
+				CF810A521E79B5EE00331F59 /* dance31.png in Resources */,
+				CF810B381E7DB58A00331F59 /* music_list.png in Resources */,
+				CFBE20A71E798BC800FCC7E0 /* Assets.xcassets in Resources */,
+				CF810A3F1E79B5EE00331F59 /* dance12.png in Resources */,
+				CF810B311E7DB52500331F59 /* music_play.png in Resources */,
+				CF810A5E1E79B5EE00331F59 /* pause_normal.png in Resources */,
+				CF810A511E79B5EE00331F59 /* dance30.png in Resources */,
+				CF810A3C1E79B5EE00331F59 /* dance09.png in Resources */,
+				CF810A491E79B5EE00331F59 /* dance22.png in Resources */,
+				CF810A5A1E79B5EE00331F59 /* next_highLighted.png in Resources */,
+				CF810A5F1E79B5EE00331F59 /* play_highLighted.png in Resources */,
+				CF810A3E1E79B5EE00331F59 /* dance11.png in Resources */,
+				CF810A561E79B5EE00331F59 /* dance35.png in Resources */,
+				CF810A4F1E79B5EE00331F59 /* dance28.png in Resources */,
+				CF810A4E1E79B5EE00331F59 /* dance27.png in Resources */,
+				CF810A3D1E79B5EE00331F59 /* dance10.png in Resources */,
+				CF810A341E79B5EE00331F59 /* dance01.png in Resources */,
+				CF810A441E79B5EE00331F59 /* dance17.png in Resources */,
+				CF810A391E79B5EE00331F59 /* dance06.png in Resources */,
+				CF810A421E79B5EE00331F59 /* dance15.png in Resources */,
+				CF810A3B1E79B5EE00331F59 /* dance08.png in Resources */,
+				CF810A351E79B5EE00331F59 /* dance02.png in Resources */,
+				CF810A581E79B5EE00331F59 /* forward_highLighted.png in Resources */,
+				CF810A401E79B5EE00331F59 /* dance13.png in Resources */,
+				CF810A551E79B5EE00331F59 /* dance34.png in Resources */,
+				CF810A5D1E79B5EE00331F59 /* pause_highLighted.png in Resources */,
+				CF810A411E79B5EE00331F59 /* dance14.png in Resources */,
+				CF810A541E79B5EE00331F59 /* dance33.png in Resources */,
+				CF810A4A1E79B5EE00331F59 /* dance23.png in Resources */,
+				CF810A461E79B5EE00331F59 /* dance19.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CFBE20AE1E798BC800FCC7E0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CFBE20931E798BC800FCC7E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF810AFC1E7C342E00331F59 /* View+MASAdditions.m in Sources */,
+				CF810A7D1E7AE80600331F59 /* LGMusicFrame.m in Sources */,
+				CFBE20CD1E798CB900FCC7E0 /* main.m in Sources */,
+				CF810B121E7CF13D00331F59 /* FMDatabasePool.m in Sources */,
+				CF810B101E7CF13D00331F59 /* FMDatabase.m in Sources */,
+				CF810A741E7AD8AF00331F59 /* HMMusicControlView.m in Sources */,
+				CF810B431E7EC2C600331F59 /* UIImage+Color.m in Sources */,
+				CF810A6E1E7ABEFB00331F59 /* LGSongListViewController.m in Sources */,
+				CF810A731E7AD8AF00331F59 /* HMMusicAnimationView.m in Sources */,
+				CF810B111E7CF13D00331F59 /* FMDatabaseAdditions.m in Sources */,
+				CF810B211E7CF33500331F59 /* FMDBHelper.m in Sources */,
+				CF810AFD1E7C342E00331F59 /* ViewController+MASAdditions.m in Sources */,
+				CF810AF81E7C342E00331F59 /* MASViewAttribute.m in Sources */,
+				CF810AF41E7C342E00331F59 /* MASCompositeConstraint.m in Sources */,
+				CF810A6B1E7ABECB00331F59 /* LGMusicViewController.m in Sources */,
+				CF810B471E7EC78500331F59 /* MBProgressHUD.m in Sources */,
+				CF810A771E7ADBDB00331F59 /* LGSongListTableViewCell.m in Sources */,
+				CF810AF61E7C342E00331F59 /* MASConstraintMaker.m in Sources */,
+				CF810AF51E7C342E00331F59 /* MASConstraint.m in Sources */,
+				CF810B241E7D08C300331F59 /* LGMusicManager.m in Sources */,
+				CF810AFB1E7C342E00331F59 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
+				CF810B131E7CF13D00331F59 /* FMDatabaseQueue.m in Sources */,
+				CF810B3C1E7E4B6A00331F59 /* LPPopup.m in Sources */,
+				CF810AF71E7C342E00331F59 /* MASLayoutConstraint.m in Sources */,
+				CF810B141E7CF13D00331F59 /* FMResultSet.m in Sources */,
+				CF810AFA1E7C342E00331F59 /* NSArray+MASAdditions.m in Sources */,
+				CFBE20CB1E798C7400FCC7E0 /* AppDelegate.m in Sources */,
+				CF810A7A1E7AE7F200331F59 /* LGMusic.m in Sources */,
+				CFBE20D41E7995A400FCC7E0 /* HomeViewController.m in Sources */,
+				CF810B3F1E7E6AC100331F59 /* LGMusicSlider.m in Sources */,
+				CF810AF91E7C342E00331F59 /* MASViewConstraint.m in Sources */,
+				CF810B281E7D76D600331F59 /* LGMusicPlayer.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CFBE20AC1E798BC800FCC7E0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CFBE20B51E798BC800FCC7E0 /* LGMusicTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CFBE20B21E798BC800FCC7E0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CFBE20961E798BC800FCC7E0 /* LGMusic */;
+			targetProxy = CFBE20B11E798BC800FCC7E0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		CFBE20B71E798BC800FCC7E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CFBE20B81E798BC800FCC7E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CFBE20BA1E798BC800FCC7E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4HE47SJGML;
+				INFOPLIST_FILE = LGMusic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sherman.LGMusic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		CFBE20BB1E798BC800FCC7E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4HE47SJGML;
+				INFOPLIST_FILE = LGMusic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sherman.LGMusic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		CFBE20BD1E798BC800FCC7E0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 4HE47SJGML;
+				INFOPLIST_FILE = LGMusicTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sherman.LGMusicTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LGMusic.app/LGMusic";
+			};
+			name = Debug;
+		};
+		CFBE20BE1E798BC800FCC7E0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 4HE47SJGML;
+				INFOPLIST_FILE = LGMusicTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sherman.LGMusicTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LGMusic.app/LGMusic";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CFBE20921E798BC800FCC7E0 /* Build configuration list for PBXProject "LGMusic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CFBE20B71E798BC800FCC7E0 /* Debug */,
+				CFBE20B81E798BC800FCC7E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CFBE20B91E798BC800FCC7E0 /* Build configuration list for PBXNativeTarget "LGMusic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CFBE20BA1E798BC800FCC7E0 /* Debug */,
+				CFBE20BB1E798BC800FCC7E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CFBE20BC1E798BC800FCC7E0 /* Build configuration list for PBXNativeTarget "LGMusicTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CFBE20BD1E798BC800FCC7E0 /* Debug */,
+				CFBE20BE1E798BC800FCC7E0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CFBE208F1E798BC800FCC7E0 /* Project object */;
+}
