@@ -5,5 +5,4 @@ A simple music player for iOS app.
 - 播放/暂停
 - 上一首/下一首
 - 单曲循环/随机播放/循环播放
-- 添加本地歌曲存入数据库，可以删除已存放歌曲
-/Users/wangyong/Desktop/IMG_1116.JPG
+- 添加本地歌曲存入数据库，可以删除已存放歌曲 
