@@ -1,7 +1,7 @@
 # SimpleMusicPlayerSDK
-A simple music player for iOS app. 
-一个简单的iOS音乐播放器：
-===
+
+## A simple music player for iOS app. 
+## 一个简单的iOS音乐播放器： 
 支持功能：
 - 播放/暂停
 - 上一首/下一首
